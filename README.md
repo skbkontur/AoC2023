@@ -3,4 +3,8 @@
 
 Puzzle solutions are located in the directory.
 
+[Telegram-channel]((https://t.me/konturAoC2023)
+
+[Telegram-chat](https://t.me/konturAoC2023_chat)
+
 [YouTube Channel](https://www.youtube.com/c/KonturTech)
